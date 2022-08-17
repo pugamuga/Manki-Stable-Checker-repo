@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Manki-Stable-Checker-repo/static/css/main.53e6d389.css",
-    "main.js": "/Manki-Stable-Checker-repo/static/js/main.58d0ae8d.js",
+    "main.js": "/Manki-Stable-Checker-repo/static/js/main.d4f4af52.js",
     "static/media/monke.png": "/Manki-Stable-Checker-repo/static/media/monke.5a19008ed5881e6579e9.png",
     "static/media/ape.png": "/Manki-Stable-Checker-repo/static/media/ape.b853de2a5454cb8077a2.png",
     "static/media/eth.png": "/Manki-Stable-Checker-repo/static/media/eth.7ff972904ad76abc2da0.png",
@@ -9,10 +9,10 @@
     "static/media/bnb.png": "/Manki-Stable-Checker-repo/static/media/bnb.ddefc4ca2aabb89b7006.png",
     "index.html": "/Manki-Stable-Checker-repo/index.html",
     "main.53e6d389.css.map": "/Manki-Stable-Checker-repo/static/css/main.53e6d389.css.map",
-    "main.58d0ae8d.js.map": "/Manki-Stable-Checker-repo/static/js/main.58d0ae8d.js.map"
+    "main.d4f4af52.js.map": "/Manki-Stable-Checker-repo/static/js/main.d4f4af52.js.map"
   },
   "entrypoints": [
     "static/css/main.53e6d389.css",
-    "static/js/main.58d0ae8d.js"
+    "static/js/main.d4f4af52.js"
   ]
 }
