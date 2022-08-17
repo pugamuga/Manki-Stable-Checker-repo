@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Manki-Stable-Checker-repo/home/static/css/main.53e6d389.css",
-    "main.js": "/Manki-Stable-Checker-repo/home/static/js/main.29363de1.js",
-    "static/media/monke.png": "/Manki-Stable-Checker-repo/home/static/media/monke.5a19008ed5881e6579e9.png",
-    "static/media/ape.png": "/Manki-Stable-Checker-repo/home/static/media/ape.b853de2a5454cb8077a2.png",
-    "static/media/eth.png": "/Manki-Stable-Checker-repo/home/static/media/eth.7ff972904ad76abc2da0.png",
-    "static/media/ftx.png": "/Manki-Stable-Checker-repo/home/static/media/ftx.6f7d45a5d4f115a6b480.png",
-    "static/media/bnb.png": "/Manki-Stable-Checker-repo/home/static/media/bnb.ddefc4ca2aabb89b7006.png",
-    "index.html": "/Manki-Stable-Checker-repo/home/index.html",
-    "main.53e6d389.css.map": "/Manki-Stable-Checker-repo/home/static/css/main.53e6d389.css.map",
-    "main.29363de1.js.map": "/Manki-Stable-Checker-repo/home/static/js/main.29363de1.js.map"
+    "main.css": "/Manki-Stable-Checker-repo/static/css/main.53e6d389.css",
+    "main.js": "/Manki-Stable-Checker-repo/static/js/main.58d0ae8d.js",
+    "static/media/monke.png": "/Manki-Stable-Checker-repo/static/media/monke.5a19008ed5881e6579e9.png",
+    "static/media/ape.png": "/Manki-Stable-Checker-repo/static/media/ape.b853de2a5454cb8077a2.png",
+    "static/media/eth.png": "/Manki-Stable-Checker-repo/static/media/eth.7ff972904ad76abc2da0.png",
+    "static/media/ftx.png": "/Manki-Stable-Checker-repo/static/media/ftx.6f7d45a5d4f115a6b480.png",
+    "static/media/bnb.png": "/Manki-Stable-Checker-repo/static/media/bnb.ddefc4ca2aabb89b7006.png",
+    "index.html": "/Manki-Stable-Checker-repo/index.html",
+    "main.53e6d389.css.map": "/Manki-Stable-Checker-repo/static/css/main.53e6d389.css.map",
+    "main.58d0ae8d.js.map": "/Manki-Stable-Checker-repo/static/js/main.58d0ae8d.js.map"
   },
   "entrypoints": [
     "static/css/main.53e6d389.css",
-    "static/js/main.29363de1.js"
+    "static/js/main.58d0ae8d.js"
   ]
 }
