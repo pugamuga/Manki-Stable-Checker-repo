@@ -53,5 +53,12 @@
   "description": "![monke](https://user-images.githubusercontent.com/106821486/185086644-b26c6a26-b3b8-44a2-b972-ac9ec6040ac6.png)",
   "main": "tailwind.config.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pugamuga/Manki-Stable-Checker-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pugamuga/Manki-Stable-Checker-repo/issues"
+  }
 }

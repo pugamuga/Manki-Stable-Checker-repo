@@ -13,7 +13,7 @@ function App() {
       <Header />
       <div className="z-10 bottom-0 top-0 mb-4 mt-[8%] sm:mt-[2.5%] right-0 left-0 ml-auto mr-auto sm:ml-[5%] p-5 sm:p-10 sm:h-[300px] sm:w-[500px] h-[300px] w-[85%] rounded-lg bg-slate-300 shadow-xl">
         <Routes>
-          <Route path="/" element={<EtherComponent />} />
+          <Route path="/Manki-Stable-Checker-repo/" element={<EtherComponent />} />
           <Route path="/example" element={<Examples />} />
           <Route path="/random" element={<Random />} />
           <Route path="/paste" element={<Paste />} />
