@@ -1,5 +1,6 @@
 {
   "name": "make-ape-great-again",
+  "homepage": "https://pugamuga.github.io/Manki-Stable-Checker-repo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +9,6 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "ethers": "^5.6.9",
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^18.2.0",
@@ -19,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,6 +46,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.8",
+    "gh-pages": "^4.0.0",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   },
