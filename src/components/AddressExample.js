@@ -10,7 +10,7 @@ const AddressExample = ({ name, image, address }) => {
         <img
           src={image}
           alt="1"
-          className=" w-5 h-5 mt-[1px] rounded-full ring-2 ring-gray-300 dark:ring-gray-500"
+          className=" w-5 h-5 mt-[1px] rounded-full ring-2 ring-gray-500"
         />
         <div>
           <h1 className="ml-2 text-[10px] mt-[4px]">{name}</h1>

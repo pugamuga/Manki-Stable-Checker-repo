@@ -13,11 +13,11 @@ const Header = () => {
 
   return (
     <div>
-      <nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded-b-md dark:bg-gray-900 shadow-md">
+      <nav className=" border-gray-200 px-2 sm:px-4 py-2.5 rounded-b-md bg-gray-900 shadow-md">
         <div className="container flex flex-wrap justify-between items-center mx-auto">
           <a href="https://t.me/MEV_manki" className="flex items-center">
             <img src={apeLogo} className="mr-3 h-6 sm:h-9 " alt="Manki" />
-            <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
+            <span className="self-center text-xl font-semibold whitespace-nowrap text-white">
               Manki Stable Checker
             </span>
           </a>

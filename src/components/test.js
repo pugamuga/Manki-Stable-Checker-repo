@@ -1,3 +1,3 @@
-const a = undefined
+const a = undefined;
 
-console.log(typeof(a) === undefined)
+console.log(typeof a === undefined);
